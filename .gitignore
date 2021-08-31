@@ -1,0 +1,4 @@
+/vendor/
+/hiep-data/*.pdf
+/datav2/*.pdf
+.idea

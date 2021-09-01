@@ -5,10 +5,10 @@ require __DIR__ . "/vendor/autoload.php";
 
 $dataset = [];
 
-$dir = "datav2";
-//$dir = "hiep-data";
+//$dir = "datav2";
+$dir = "hiep-data";
 
-$files = glob(__DIR__ . "/datav2/*.txt");
+$files = glob(__DIR__ . "/$dir/*.txt");
 ob_start();
 foreach ($files as $file){
     if(!preg_match("/\d+\.txt$/",$file, $matches)){

@@ -1,28 +1,28 @@
 
 /home/hocvt/Documents/tmp/php-title-refine/datav2/en.001.txt
 Origin: 36. Application Method.— O n ce t h e s u rfa ce su b str ate h as b ee n p ro p er ly p r ep a r ed a n d (40-43) (Length 1504)
-=>      36. Application Method.— O n ce the s u rface su b strate h as b ee n p ro p er ly p r ep a r ed a n d (40-43) (Length 1504)
+=>      36. Application Method.— On ce the surface substrate has been proper ly prepared and (40-43) (Length 1504)
 Origin: 
 Origin: 37. Application Technique.— R e cla m a t io n d oes n ot sp ecify the p roced u re or tech niqu e to (43-45) (Length 765)
-=>      37. Application Technique.— R e clam a t ion d oes n ot sp ecify the p roced u re or tech niqu e to (43-45) (Length 765)
+=>      37. Application Technique.— Reclam ation does not sp ecify the procedure or tech niqu e to (43-45) (Length 765)
 Origin: 
 Origin: 45. Risk Evaluation.— Risk ev a lu a tio n is p rim ar ily a p ro ject office resp on sibility Th e (50-52) (Length 951)
-=>      45. Risk Evaluation.— Risk ev a lu a tio n is p rim ar ily a p ro ject office resp on sibility The (50-52) (Length 951)
+=>      45. Risk Evaluation.— Risk evalu ation is prim ar ily ap ro ject office resp on sibility The (50-52) (Length 951)
 Origin: 
 Origin: 57. Surface Preparation.— T h e m e t h o d o f s u r fa ce p r e p a r a t io n o f g a lv a n i z ed m e t alw o r k (58-60) (Length 1398)
-=>      57. Surface Preparation.— The m e t h o d o f s u r face p r e p a r a t ion o f g a lv a n i z ed m e t alw o r k (58-60) (Length 1398)
+=>      57. Surface Preparation.— The method of surface preparation of galvan ized metalw or k (58-60) (Length 1398)
 Origin: 
 Origin: 60. Formulation.— Fo r m u l a tio n fa ilu r e s a r e failu r es th a t a r e in h er en t w ith in th e co a tin g (62-64) (Length 777)
-=>      60. Formulation.— For m u l a tio n failu r e s a r e failu r es th a t a r e in h er en t w ith in the coating (62-64) (Length 777)
+=>      60. Formulation.— Formulation failures are failures that are inherent within the coating (62-64) (Length 777)
 Origin: 
 Origin: 64. Design.— N u m er ou s co a tin g failu r es occur , not b ecau se of m isform u lated m ater ials, (66-70) (Length 1645)
-=>      64. Design.— N u m er ou s coating failu r es occur , not b ecau se of m isform u lated m ater ials, (66-70) (Length 1645)
+=>      64. Design.— N u m er ou s coating failures occur , not because of m isform u lated m aterials, (66-70) (Length 1645)
 Origin: 
 Origin: 65. Exterior Forces.— Th e en v ir on m e n t th e c o a tin g i s su b je ct t o ca n b e a p r i m a r y c a u s e o f (70-74) (Length 895)
-=>      65. Exterior Forces.— The en v ir on m e n t the coating is su b ject t o can b e a p r i m a r y c a u s e o f (70-74) (Length 895)
+=>      65. Exterior Forces.— The environ m en t the coating is subject to can be ap rim ar y cause of (70-74) (Length 895)
 /home/hocvt/Documents/tmp/php-title-refine/datav2/en.002.txt
 Origin: N A R ROW A N D W I DE A NGL E C OU R S E DE S IGN S (38-44) (Length 1623)
-=>      N A R ROW AND WIDE A NGL E COURSE DESIGN S (38-44) (Length 1623)
+=>      NARROW AND WIDE A NGL EC OUR SE DESIGN S (38-44) (Length 1623)
 Origin: 
 Origin: GR A M M AT IC A L S T RUC T U R E S A N D C OR E VOC A BU L A RY (48-51) (Length 627)
 =>      GRAMMATICAL STRUCTURES AND CORE VOCABULARY (48-51) (Length 627)
@@ -34,61 +34,61 @@ Origin: I N HOU S E T E AC H I NG M AT E R I A L F OR E NGI N E E R I NG S T U D
 =>      IN HOUSE TEACHING MATERIAL FOR ENGINEERING STUDENTS (86-91) (Length 829)
 Origin: 
 Origin: R E S E A RC H S T U DY I N T O WOR K PL AC E L A NGUAGE (91-98) (Length 778)
-=>      RESEARCH STUDY IN TO WORK PLACE LANGUAGE (91-98) (Length 778)
+=>      RESEARCH STUDY INTO WORKPLACE LANGUAGE (91-98) (Length 778)
 Origin: 
 Origin: I N F OR M AT ION PROC E S SI NG Concepts (110-146) (Length 3004)
-=>      IN FOR M AT ION PROCESSING Concepts (110-146) (Length 3004)
+=>      INFORMATION PROCESSING Concepts (110-146) (Length 3004)
 Origin: 
 Origin: T O T E AC H U N DE R LY I NG K NOW L E DGE (150-162) (Length 3009)
 =>      TO TEACH UNDERLYING KNOWLEDGE (150-162) (Length 3009)
 Origin: 
 Origin: R E I N T RODUC I NG T H E F R A M E WOR K (162-192) (Length 3008)
-=>      R E IN T RODUC I NG THE FRAMEWORK (162-192) (Length 3008)
+=>      REINTRODUCING THE FRAMEWORK (162-192) (Length 3008)
 Origin: 
 Origin: 183Subject Inde (196-199) (Length 646)
 =>      183Subject Inde (196-199) (Length 646)
 /home/hocvt/Documents/tmp/php-title-refine/datav2/id.001.txt
 Origin: Ask r in d o Alok a sik a n 9 0 Pe r se n Ja m in a n Kr e d it n y a Un t u k UM KM (34-40) (Length 1334)
-=>      Askrindo Alokasikan 90 Persen Jaminan Kredit n y a Untuk UMKM (34-40) (Length 1334)
+=>      Askrindo Alokasikan 90 Persen Jaminan Kredit nya Untuk UMKM (34-40) (Length 1334)
 Origin: 
 Origin: Pu sa t p r om osi p r od u k UKM a k a n j a d i h u b r e g ion a l (54-56) (Length 522)
-=>      Pusat promosi produk UKM akan jadi h u b r e giona l (54-56) (Length 522)
+=>      Pusat promosi produk UKM akan jadi hub regional (54-56) (Length 522)
 Origin: 
 Origin: Ta h u n I n i Ba n k M ik r o Te r w u j u d by : Sisca Maria Eviline (56-58) (Length 527)
 =>      Tahun Ini Bank Mikro Terwujud by : Sisca Maria Eviline (56-58) (Length 527)
 Origin: 
 Origin: UKM M e n g a r a h k e p a d a I n d u st r i Ja sa ANDREAS MARYOTO (60-62) (Length 721)
-=>      UKM M e n ga r a h kepada Industri Jasa ANDREAS MARYOTO (60-62) (Length 721)
+=>      UKM Mengarah kepada Industri Jasa ANDREAS MARYOTO (60-62) (Length 721)
 Origin: 
 Origin: Pe r t u m b u h a n om z e t M LM I n d on e sia t e r t e k a n JAKARTA: World Federation of Direct Selling Associations (WDFSA) mengungkapkan (67-70) (Length 687)
-=>      Pertumbuhan omzet M LM Indonesia t e r t e k a n JAKARTA: World Federation of Direct Selling Associations (WDFSA) mengungkapkan (67-70) (Length 687)
+=>      Pertumbuhan omzet MLM Indonesia tertekan JAKARTA: World Federation of Direct Selling Associations (WDFSA) mengungkapkan (67-70) (Length 687)
 Origin: 
 Origin: M e n a n t i Pe m b e n a h a n Pa sa r Tr a d ision a l by : Sapariah (72-76) (Length 1102)
-=>      M e n a n t i Pe m be n a h a n Pasar Tradisional by : Sapariah (72-76) (Length 1102)
+=>      Menanti Pembenahan Pasar Tradisional by : Sapariah (72-76) (Length 1102)
 /home/hocvt/Documents/tmp/php-title-refine/datav2/id.002.txt
 Origin: St a bilisa si Pa n ga n Pe r lu Rp 1 3 ,7 T Pe n ga r u h n y a Ak a n Te r a sa 2 3 M in ggu k e D e pa n (32-38) (Length 1711)
-=>      Stabilisasi Pangan Per lu Rp 13,7 T Pe n ga r u h n y a Akan Terasa 2 3 Minggu ke Depan (32-38) (Length 1711)
+=>      Stabilisasi Pangan Perlu Rp 13,7 T Pengaruh n ya Akan Terasa 23 Minggu ke Depan (32-38) (Length 1711)
 Origin: 
 Origin: Ribu a n Pe t a n i U n j u k Ra sa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
-=>      Ribuan Petani U n j u k Rasa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
+=>      Ribuan Petani Unjuk Rasa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
 Origin: 
 Origin: Ke t a h a n a n pa n ga n &amp; m isi k om e r sia l Bu log (44-47) (Length 800)
-=>      Ketahanan pangan &amp; m isi k om e r sia l Bulog (44-47) (Length 800)
+=>      Ketahanan pangan &amp; misi komersial Bulog (44-47) (Length 800)
 Origin: 
 Origin: Pe t a n i M a sih Su lit (47-50) (Length 817)
 =>      Petani Masih Sulit (47-50) (Length 817)
 Origin: 
 Origin: Ribu a n H e k t a r e Sa w a h di Pa n t u r a Te r ge n a n g Air (54-57) (Length 597)
-=>      Ribuan Hektare Sawah di Pa n t u r a Tergenang Air (54-57) (Length 597)
+=>      Ribuan Hektare Sawah di Pantura Tergenang Air (54-57) (Length 597)
 Origin: 
 Origin: Ev a lu a si Ke bij a k a n Se k t or Pe r t a n ia n Selasa, 12/02/ (60-63) (Length 798)
 =>      Evaluasi Kebijakan Sektor Pertanian Selasa, 12/02/ (60-63) (Length 798)
 Origin: 
 Origin: Pe t a n i Be n gk u lu Ta k Be r m in a t Ta n a m Ke de la i [BENGKULU] Sebagian besar petani di Kota Bengkulu, Provinsi Bengkulu, tidak berminat (63-66) (Length 684)
-=>      Petani Bengkulu Tak Be r m in a t Tanam Kedelai [BENGKULU] Sebagian besar petani di Kota Bengkulu, Provinsi Bengkulu, tidak berminat (63-66) (Length 684)
+=>      Petani Bengkulu Tak Berminat Tanam Kedelai [BENGKULU] Sebagian besar petani di Kota Bengkulu, Provinsi Bengkulu, tidak berminat (63-66) (Length 684)
 Origin: 
 Origin: BPRS M e m bidik Pe m bia y a a n Se k t or Pe r t a n ia n (70-72) (Length 545)
-=>      BPRS M e m bidik Pembiayaan Sektor Pertanian (70-72) (Length 545)
+=>      BPRS Membidik Pembiayaan Sektor Pertanian (70-72) (Length 545)
 Origin: 
 Origin: Te r a n ca m Kr isis Pa n ga n Kamis, 14 Februari 2008 | 02:09 WIB (79-82) (Length 759)
 =>      Terancam Krisis Pangan Kamis, 14 Februari 2008 | 02:09 WIB (79-82) (Length 759)
@@ -97,52 +97,52 @@ Origin: Pe t a n i Tu n t u t Ke n a ik a n H PP Ga ba h da n Be r a s Semarang-
 =>      Petani Tuntut Kenaikan HPP Gabah dan Beras Semarang-RoL Perhimpunan Petani dan Nelayan Sejahteran Indonesia (PPNSI) Jawa (82-84) (Length 748)
 Origin: 
 Origin: I n v olu si Pe t a n i Jumat, 15 Februari 2008 | 02:52 WIB (88-91) (Length 904)
-=>      I n v olu si Petani Jumat, 15 Februari 2008 | 02:52 WIB (88-91) (Length 904)
+=>      Involusi Petani Jumat, 15 Februari 2008 | 02:52 WIB (88-91) (Length 904)
 Origin: 
 Origin: Bu log Ak a n M e la k u k a n Be r ba ga i St r a t e gi Pe m be lia n Sabtu, 16 Februari 2008 | 03:38 WIB (92-96) (Length 736)
 =>      Bulog Akan Melakukan Berbagai Strategi Pembelian Sabtu, 16 Februari 2008 | 03:38 WIB (92-96) (Length 736)
 Origin: 
 Origin: Pe t a n i Cit e pu s H ilir Ke lu h k a n Te r ba t a sn y a Air SUKABUMI, (PR) (103-106) (Length 749)
-=>      Petani Citepus H ilir Ke lu h k a n Terbatasnya Air SUKABUMI, (PR) (103-106) (Length 749)
+=>      Petani Citepus Hilir Keluhkan Terbatasnya Air SUKABUMI, (PR) (103-106) (Length 749)
 Origin: 
 Origin: Tiga Pe k a n Pe t a n i M e n j e r it 4 Ribu Ton Pu pu k D ibon gk a r (106-109) (Length 835)
-=>      Tiga Pe k a n Petani M e n j e r it 4 Ribu Ton Pupuk D ibon gk a r (106-109) (Length 835)
+=>      Tiga Pekan Petani Menjerit 4 Ribu Ton Pupuk Dibongkar (106-109) (Length 835)
 Origin: 
 Origin: Pe t a n i D a la m An ca m a n Fisik da n M e n t a l Oleh Dedi Sufyad (114-118) (Length 1076)
-=>      Petani Dalam Ancaman Fisik dan M e n t a l Oleh Dedi Sufyad (114-118) (Length 1076)
+=>      Petani Dalam Ancaman Fisik dan Mental Oleh Dedi Sufyad (114-118) (Length 1076)
 Origin: 
 Origin: Be n ca n a e k ologis da n k r isis pa n ga n (118-121) (Length 689)
-=>      Bencana e k ologis dan krisis pangan (118-121) (Length 689)
+=>      Bencana ekologis dan krisis pangan (118-121) (Length 689)
 Origin: 
 Origin: Pa n e n An j lok , Pe t a n i Ke su lit a n M oda l Ta n a m Senin, 25 Februari 2008 | 01:05 WIB (121-123) (Length 762)
 =>      Panen Anjlok , Petani Kesulitan Modal Tanam Senin, 25 Februari 2008 | 01:05 WIB (121-123) (Length 762)
 Origin: 
 Origin: Re v it a lisa si pe r k e bu n a n k opi su da h u r ge n (123-126) (Length 787)
-=>      Revitalisasi per ke bu n a n kopi sudah u r ge n (123-126) (Length 787)
+=>      Revitalisasi perkebunan kopi sudah urgen (123-126) (Length 787)
 /home/hocvt/Documents/tmp/php-title-refine/datav2/id.003.txt
 Origin: Pr od u k UKM y a n g D ip a t e n k a n M a sih Se d ik it Jum'at, 08 Agustus 2008 , 00:16: (31-33) (Length 679)
 =>      Produk UKM yang Dipatenkan Masih Sedikit Jum'at, 08 Agustus 2008 , 00:16: (31-33) (Length 679)
 Origin: 
 Origin: Ta n a h Ab a n g , p a sa r t r a d ison a l b e r n u a n sa m od e r n Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
-=>      Tanah Abang , pasar t r a disona l bernuansa modern Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
+=>      Tanah Abang, pasar tradisonal bernuansa modern Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
 Origin: 
 Origin: Be n a h i Pa sa r Tr a d ision a l SP/Alex Suban (43-48) (Length 1666)
-=>      Be n a h i Pasar Tradisional SP/Alex Suban (43-48) (Length 1666)
+=>      Benahi Pasar Tradisional SP/Alex Suban (43-48) (Length 1666)
 Origin: 
 Origin: Kom isi V I se t u j u i t a m b a h a n d a n a KUR (58-62) (Length 1155)
-=>      Komisi VI se t u j u i tambahan dan a KUR (58-62) (Length 1155)
+=>      Komisi VI setuju it a m bahan dan a KUR (58-62) (Length 1155)
 Origin: 
 Origin: M e n e g k op n ila i M LM b e r d a y a k a n p e n g u sa h a k e cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
-=>      M e n e gk op nilai M LM be r daya k a n pengusaha kecil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
+=>      Menegkop nilai MLM berdayakan pengusaha kecil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
 Origin: 
 Origin: PKL M u sim a n M u la i Pa d a t i Ta n a h Ab a n g Tr ot oa r d a n Ja la n M u la i D iok u p a s (74-77) (Length 567)
-=>      PKL M usim a n Mulai Pada t i Tanah Abang Trotoar dan Jalan Mulai D iok u pa s (74-77) (Length 567)
+=>      PKL Musiman Mulai Padati Tanah Abang Trotoar dan Jalan Mulai D iok upa s (74-77) (Length 567)
 /home/hocvt/Documents/tmp/php-title-refine/datav2/pt.001.txt
 Origin: A N E X O I – C O N T E Ú D O P R O G R A M Á T I C O FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005)
-=>      A N E X O I – CONTEÚDO PROGRAMÁTICO FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005)
+=>      ANEXO I – CONTEÚDO PROGRAMÁTICO FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005)
 Origin: 
 Origin: A N E X O I I – A T R I B U I Ç Õ E S D A S F U N Ç Õ E S FUNÇÃO DE NÍVEL MÉDIO (39-44) (Length 2608)
-=>      A N E X O I I – A T R I B U I Ç Õ E S DAS FUNÇÕES FUNÇÃO DE NÍVEL MÉDIO (39-44) (Length 2608)
+=>      ANEXO II – ATRIBUIÇÕES DAS FUNÇÕES FUNÇÃO DE NÍVEL MÉDIO (39-44) (Length 2608)
 Origin: 
 Origin: FUNÇÃO DE NÍVEL SUPERIOR Analista de Sistemas (Desenvolvimento de Sistema de Informação) (44-47) (Length 617)
 =>      FUNÇÃO DE NÍVEL SUPERIOR Analista de Sistemas (Desenvolvimento de Sistema de Informação) (44-47) (Length 617)
@@ -153,7 +153,7 @@ Origin: C. CHA M Ẹ CHA M Ẹ RU Ộ T CHA M Ẹ V Ợ CH Ồ NG CHA M Ẹ K �
 =>      C. CHA MẸ CHA MẸ RUỘT CHA MẸ V Ợ CH Ồ NG CHA MẸ KẾ
 Origin: 
 Origin: H Ồ S Ơ CH Ứ NG MINH NG ƯỜ I PH Ụ THU Ộ C
-=>      HỒ SƠ CHỨNG MINH NGƯỜI PHỤ THU Ộ C
+=>      HỒ SƠ CHỨNG MINH NGƯỜI PHỤ THUỘC
 Origin: 
 Origin: Thu ế su ấ t đố i v ớ i các kho ả n thu nh ậ p khác
 =>      Thuế suất đối với các khoản thu nhập khác
@@ -204,7 +204,7 @@ Origin: đố i T ượ ng Có th ể ch ọ n nhi ề u câu tr ả l ờ i (31
 Origin: 
 /home/hocvt/Documents/tmp/php-title-refine/datav2/vi.006.txt
 Origin: Đ I Ề U Đ Ó TÙY THU Ộ C VÀO B Ạ N (27-29) (Length 1427)
-=>      ĐIỀU ĐÓ TÙY THU Ộ C VÀO BẠN (27-29) (Length 1427)
+=>      ĐIỀU ĐÓ TÙY THUỘC VÀO BẠN (27-29) (Length 1427)
 Origin: 
 Origin: BI Ế N N ƯỚ C THÀNH R ƯỢ U (29-34) (Length 2594)
 =>      BIẾN NƯỚC THÀNH RƯỢU (29-34) (Length 2594)

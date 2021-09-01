@@ -30,12 +30,12 @@ class Word
     public function getWeight(){
         $weight_map = [
 //           'length' => 'weight'
-            1 => 4,
-            2 => 6,
-            3 => 15,
-            4 => 23,
-            5 => 32,
-            6 => 50,
+            1 => 1,
+            2 => 100,
+            3 => 1000,
+            4 => 10000,
+            5 => 100000,
+            6 => 1000000,
         ];
         $length = array_reduce($this->parts, function ($total, $part){
             return $total + mb_strlen($part);
